@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annykko
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning web3
 
